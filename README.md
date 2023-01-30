@@ -157,10 +157,10 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-
+Da
 Second part of Airbnb: 
-Florence Wangui - [Github](https://github.com/Florence-wangui)
+Faith Liyosi <Liyosi1996>
+Oghenekome Igho<kvictory1010@gmail.com>
 
 ## License
 Public Domain. No copy write protection. 
